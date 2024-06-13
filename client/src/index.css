@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.text-primary{
+  color:#6374ae;
+}
+
+.bg-primary{
+  background-color:#6374ae;
+}
+
+.border-primary{
+  border: 1px solid #6374ae;
+}
