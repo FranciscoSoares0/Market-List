@@ -2,7 +2,7 @@ import { API_URL } from "./config";
 
 export type TMarketList = {
   title: string;
-  cards: string[];
+  items: string[];
   _id: string;
 };
 
